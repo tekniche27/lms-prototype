@@ -136,13 +136,13 @@ export const navItems: NavItem[] = [
     isActive: false,
     items: [] // No child items
   },
-  {
-    title: 'Category',
-    url: '/dashboard/product',
-    icon: 'product',
-    isActive: false,
-    items: [] // No child items
-  },
+  // {
+  //   title: 'Category',
+  //   url: '/dashboard/product',
+  //   icon: 'product',
+  //   isActive: false,
+  //   items: [] // No child items
+  // },
   {
     title: 'Account',
     url: '#', // Placeholder as there is no direct link for the parent

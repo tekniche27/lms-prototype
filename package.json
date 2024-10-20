@@ -1,10 +1,10 @@
 {
-  "name": "nextshcdndashboardstarter",
+  "name": "lms-prototype",
   "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Kiran",
-    "url": "https://github.com/Kiranism"
+    "name": "devtekniche",
+    "url": "https://github.com/tekniche27"
   },
   "scripts": {
     "dev": "next dev --turbo",
